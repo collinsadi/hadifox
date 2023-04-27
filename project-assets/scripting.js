@@ -23,7 +23,7 @@ let bestdealsrowrap = document.getElementById("bestdeals");
 
 let BestDeals = [
     {
-    image : "../images/home-pod-mini.png",
+    image : "images/home-pod-mini.png",
     prodname : "HomePod Mini",
     prodprice : 239,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -31,7 +31,7 @@ let BestDeals = [
 
 },
 {
-    image : "../images/instax-mini9.png",
+    image : "images/instax-mini9.png",
     prodname : "InstaX Mini 9",
     prodprice : 99,
     Desc: "Selfie Mode",
@@ -39,7 +39,7 @@ let BestDeals = [
 
 },
 {
-    image : "../images/tote-medium.png",
+    image : "images/tote-medium.png",
     prodname : "Tot e Medium",
     prodprice : 29,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -47,7 +47,7 @@ let BestDeals = [
 
 },
 {
-    image : "../images/base-camp-duffel-m.png",
+    image : "images/base-camp-duffel-m.png",
     prodname : "Base camp Duffel M",
     prodprice : 159,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -55,7 +55,7 @@ let BestDeals = [
 
 },
 {
-    image : "../images/headiphone-mini.png",
+    image : "images/headiphone-mini.png",
     prodname : "HeadPhone Mini",
     prodprice : 50,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -63,7 +63,7 @@ let BestDeals = [
 
 },
 {
-    image : "../images/wrist-watch.png",
+    image : "images/wrist-watch.png",
     prodname : "Wrist Watch",
     prodprice : 1000,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -148,7 +148,7 @@ bestdealsproducts();
 
  let WeeklyProducts = [
 {
-    image : "../images/headiphone-mini.png",
+    image : "images/headiphone-mini.png",
     prodname : "Head Phone Mini",
     prodprice : 29,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -156,7 +156,7 @@ bestdealsproducts();
 
 },
 {
-    image : "../images/base-camp-duffel-m.png",
+    image : "images/base-camp-duffel-m.png",
     prodname : "Base camp Duffel M",
     prodprice : 159,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -164,7 +164,7 @@ bestdealsproducts();
 
 },
 {
-    image : "../images/wrist-watch.png",
+    image : "images/wrist-watch.png",
     prodname : "Wrist Watch",
     prodprice : 1000,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -172,7 +172,7 @@ bestdealsproducts();
 
 },
 {
-    image : "../images/cabin.png",
+    image : "images/cabin.png",
     prodname : "Cabin",
     prodprice : 1000,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -180,7 +180,7 @@ bestdealsproducts();
 
 },
 {
-    image : "../images/waterbottle.png",
+    image : "images/waterbottle.png",
     prodname : "Pendleton Water Bottle",
     prodprice : 1000,
     Desc: "Table With Air Purifier, stained veneer-Black",
@@ -280,7 +280,7 @@ weeklypopularproducts();
 let TodayBestDeals = [
 
     {
-        image : "../images/headiphone-mini.png",
+        image : "images/headiphone-mini.png",
         prodname : "Head Phone Mini",
         prodprice : 29,
         Desc: "Table With Air Purifier, stained veneer-Black",
@@ -289,7 +289,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/supreme-water-bottle.png",
+        image : "images/supreme-water-bottle.png",
         prodname : "Supreme Water Bottles",
         prodprice : 5,
         Desc: "Nice Supreme Water Bottles",
@@ -298,7 +298,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/airpods-max.png",
+        image : "images/airpods-max.png",
         prodname : "AirPods Max",
         prodprice : 559,
         Desc: "A perfect balance of high-fidelity audio",
@@ -307,7 +307,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/laptop-sleeve.png",
+        image : "images/laptop-sleeve.png",
         prodname : "Laptop Sleeve",
         prodprice : 50,
         Desc: "Organic Cotton, fairtrade certified",
@@ -316,7 +316,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/flower-laptop-sleeve.png",
+        image : "images/flower-laptop-sleeve.png",
         prodname : "Flower Laptop Sleeve",
         prodprice : 50,
         Desc: "15 in. x 10 in. -Flap top closure",
@@ -325,7 +325,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/macbook-13-min.png",
+        image : "images/macbook-13-min.png",
         prodname : 'Macbook pro 13" ',
         prodprice : 1099,
         Desc: "256, 8 core GPU, 8 GB",
@@ -334,7 +334,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/ipad-mini.png",
+        image : "images/ipad-mini.png",
         prodname : "Ipad Mini",
         prodprice : 539,
         Desc: "Table with air purifier, stained veneer/black",
@@ -343,7 +343,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/home-pod-mini.png",
+        image : "images/home-pod-mini.png",
         prodname : "HomePod Mini",   
         prodprice : 59,
         Desc: "5 Colors Available",
@@ -355,7 +355,7 @@ let TodayBestDeals = [
         // Fitness Products
 
     {
-        image : "../images/dumbell-20kg.png",
+        image : "images/dumbell-20kg.png",
         prodname : "20kg Dumbell",
         prodprice : 90,
         Desc: "20kg Adjustable Dumbell Set With Case",
@@ -364,7 +364,7 @@ let TodayBestDeals = [
     
     },
     {
-        image : "../images/skipping-rope.png",
+        image : "images/skipping-rope.png",
         prodname : "Skipping Rope",
         prodprice : 5,
         Desc: "Adjustable Jump Skipping Rope Cable For Adults/Kids",
@@ -444,35 +444,35 @@ let mostsellingproductwrap = document.getElementById('most-selling-products')
 let MostSellingProducts = [
 
     {
-        image : "../images/instax-mini11.png",
+        image : "images/instax-mini11.png",
         prodname : "Instax Mini 11",
         prodprice : 89,
         Desc: "Selfie Mode and Selfie Mirror Micro Mode",
         prodid: "mostselling1",
     },
     {
-        image : "../images/hand-watch.png",
+        image : "images/hand-watch.png",
         prodname : "Hand Watch",
         prodprice : 59,
         Desc: "Citizen 650M, W-69g",
         prodid: "mostselling2",
     },
     {
-        image : "../images/adidas-sneakers.png",
+        image : "images/adidas-sneakers.png",
         prodname : "Adidas Sneakers",
         prodprice : 159,
         Desc: "X Sean Wotherspoon Superstar sneakers",
         prodid: "mostselling3",
     },
     {
-        image : "../images/waterbottle.png",
+        image : "images/waterbottle.png",
         prodname : "Pendleton Water Bottle",
         prodprice : 89,
         Desc: "Stainless Steel, Food safe, Hand Wash",
         prodid: "mostselling4",
     },
     {
-        image : "../images/cabin.png",
+        image : "images/cabin.png",
         prodname : "Cabin",
         prodprice : 239,
         Desc: "Table With Air Purifier, stained veneer-Black",
