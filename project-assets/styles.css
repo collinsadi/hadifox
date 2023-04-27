@@ -1627,7 +1627,7 @@ footer .footer-inner .footer-department h3, footer .footer-inner .footer-about-u
 }
 .popup-container .main-popup {
   width: 50%;
-  background-color: var(--white-color);
+  background-color: white;
   padding: 15px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -1636,7 +1636,8 @@ footer .footer-inner .footer-department h3, footer .footer-inner .footer-about-u
   padding: 10px;
   border: none;
   outline: none;
-  color: var(--white-text);
+  border: 2px solid white;
+  color: white;
   cursor: pointer;
 }
 
@@ -1662,7 +1663,7 @@ footer .footer-inner .footer-department h3, footer .footer-inner .footer-about-u
 }
 
 #preloader {
-  background: #000000 url("../images/preloader.gif") no-repeat center center;
+  background: white url("../images/preloader.gif") no-repeat center center;
   height: 100%;
   width: 100%;
   position: fixed;
